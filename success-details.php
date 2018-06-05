@@ -71,7 +71,7 @@
       else  echo 'Second query failed: ' . $mysqli->error;
       
    ?>
-
+   
 
   </body>
 </html> 
