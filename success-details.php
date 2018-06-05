@@ -41,7 +41,7 @@
       $stmt->execute();
       echo "success";   
       }
-      else echo "no way";
+      else echo "not working";
     
    ?>
     <?php
